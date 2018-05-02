@@ -1,0 +1,2 @@
+Programa desarrollado en java para hayar Beta0, beta1, correlacion, regresion del assignment 3 de workbook PSP
+//Se debe ejecutar la clase Principal
